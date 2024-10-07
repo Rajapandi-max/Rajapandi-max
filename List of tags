@@ -12,17 +12,17 @@
     <hr Style="width:400px;text-align: left;margin-left:0;">
     <ul>
         <li><p><u>ASP Tutorial - W3 Schools</u></p>
-        <a href><u>www.w3schools.com/asp</u></a></li>
+        <a href="http://www.w3schools.com/asp"><u>www.w3schools.com/asp</u></a></li>
         <li><p><u>Classic ASP Tutorials & Articles - Web Wiz</u></p>
-        <a href><u>www.webwiz.co.uk - Knowledgebase</u></a></li>
+        <a href="http//www.webwiz.co.uk - Knowledgebase"><u>www.webwiz.co.uk - Knowledgebase</u></a></li>
         <li><p><u>HTML Tutorial - W3 Schools</u></p>
-        <a href><u>www.w3schools.com/html</u></a></li>
+        <a href="http//www.w3schools.com/html"><u>www.w3schools.com/html</u></a></li>
         <li><p><u>CSS Tutorial</u></p>
-        <a href><u>www.csstutorial.net</u></a></li>
+        <a href="http//www.csstutorial.net"><u>www.csstutorial.net</u></a></li>
         <li><p><u>VBScript Tutorial - Tutorial Point</u></p>
-        <a href><u>www.tutorialspoint.com/vbscript/index.htm</u></a></li>
+        <a href="http//www.tutorialspoint.com/vbscript/index.htm"><u>www.tutorialspoint.com/vbscript/index.htm</u></a></li>
         <li><p><u>ADO Tutorial - W3 Schools</u></p>
-        <a href><u>www.w3schools.com/ADO/defualt.asp</u></a></li>
+        <a href="http//www.w3schools.com/ADO/defualt.asp"><u>www.w3schools.com/ADO/defualt.asp</u></a></li>
         </ul>
 </body>
 </html>
