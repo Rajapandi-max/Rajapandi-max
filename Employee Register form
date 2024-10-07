@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <center>
+    <title>EMPLOYEE REGISTER FORM</title>
+    <link rel="icon" href="Gradskey.png">
+    <h1>🧑‍💼Employee Registration Form</h1>
+    <style type="text/css">
+        h1{color: red}
+        </style>        
+    <input type="radio">Mr.
+    <input type="radio">Mrs.
+    <input type="radio">Ms.<br>
+    <label for="FirstName"><b>FirstName</b></label>
+    <input type="text" placeholder="FirstName"><br>
+    <label for="LastName"><b>FirstName</b></label>
+    <input type="text" placeholder="LastName"><br>
+    <label for="MailAddress1"><b>MailAddress1</b></label>
+    <input type="text" placeholder=" "><br>
+    <label for="MailAddress2"><b>MailAddress2</b></label>
+    <input type="text" placeholder=" "><br>
+    <label for="City"><b>City</b></label>
+    <input type="text" placeholder=" "><br>
+    <label for="State"><b>State</b></label>
+    <select>
+        <option value="Gujarat">Gujarat</option>
+        <option value="Assam">Assam</option>
+        <option value="Bihar">Bihar</option>
+        <option value="Kerala">Kerala</option>
+    </select><br>
+    <label for="Zip"><b>Zip</b></label>
+    <input type="text" placeholder=""><br>
+    <label for="Upload Photo"><b>Upload Photo</b></label>
+    <input type="file" name="upload" id="fileUpload" multiple></br>
+    <label for="E-Mail"><b>E-Mail</b></label>
+    <input type="text" placeholder=" "><br>
+    <label for="Mobile"><b>Mobile</b></label>
+    <input type="text" placeholder="+91"><br>
+    <label for="Languages known"><b>Languages known</b></label>
+    <input type="checkbox" placeholder=" Gujarati">
+    <label for="Gujarati"><b>Gujarati</b></label><br>
+    <input type="checkbox" placeholder=" Hindi">
+    <label for="Hindi"><b>Hindi</b></label><br>
+    <input type="checkbox" placeholder=" English">
+    <label for="English"><b>English</b></label><br>
+    <input type="checkbox" placeholder=" Marathi">
+    <label for="Marathi"><b>Marathi</b></label><br>
+    <p>Additional Information</p>
+    <textarea cols="10" rows="5" placeholder="Optional"></textarea><br>
+    <button type="submit">submit</button>
+    <button type="reset">reset</button>
+</center>
+</div>
+</form>
+</html>
